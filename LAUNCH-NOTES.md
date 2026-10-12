@@ -24,7 +24,7 @@
 The labels on the showcase bowls use only the printed menu's descriptions. If a photo is replaced, re-check the label positions (x and y percentages in assets/js/menu-data.js).
 
 ## Domain
-- The canonical URL is a placeholder: https://grace-noodle.netlify.app. Replace it in every file with the real Netlify link or a custom domain.
+- Live demo: https://grace-noodle-website-demo.netlify.app/. All canonical and share URLs point there. If the owner buys a custom domain, replace it in every file.
 - gracenoodle.com may be expired. Check whether it can be re-registered for the owner.
 
 ## Credits

@@ -11,4 +11,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://grace-noodle.netlify.app/sitemap.xml
+Sitemap: https://grace-noodle-website-demo.netlify.app/sitemap.xml

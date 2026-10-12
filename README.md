@@ -18,4 +18,4 @@ Run `python3 -m http.server 8000` in this folder, then open http://localhost:800
 Push to GitHub and connect the repo in Netlify (publish directory: repo root). Turn on Netlify Forms email notifications for the "pickup-order" form so orders reach the restaurant (Site settings > Forms > Form notifications).
 
 ## Domain
-The canonical URL is a placeholder (`https://grace-noodle.netlify.app`). Once the Netlify site exists, replace it with the real link everywhere: canonical, og:url, og:image, JSON-LD, sitemap, robots and llms.txt.
+Live at https://grace-noodle-website-demo.netlify.app/ (GitHub: https://github.com/Azaiah00/grace-noodle-website-demo). Every canonical, og:url, og:image, JSON-LD, sitemap, robots and llms.txt URL points to that domain, so shared links and text-message previews always open it. If a custom domain is added later, replace it in all of those places.
