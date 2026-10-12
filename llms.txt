@@ -1,0 +1,26 @@
+# Grace Noodle
+
+> Locally owned Japanese noodle and ramen shop at 1823 E Main St, Richmond, VA 23223 (Shockoe Bottom). Open since 2014. Noodles made fresh in house. Dine-in and pickup orders.
+
+- Website: https://grace-noodle.netlify.app/
+- Phone: (804) 855-0495
+- Address: 1823 E Main St, Richmond, VA 23223
+- Hours: Monday-Saturday 11 AM-9 PM; Sunday closed
+- Google rating: 4.6 from 364 reviews
+- Also known as: Grace Japanese Noodle and Restaurant
+- History: opened in 2014 by chef Gaw Phaw, who worked ten years in a noodle shop in Japan, and his wife Ma Lay
+- Ordering: pickup orders online at https://grace-noodle.netlify.app/order.html (confirmed by phone, pay at the counter) or by phone
+- Instagram: https://www.instagram.com/gracenoodlerva/
+
+## Menu highlights
+- Ramen: $10.99-$13.99 (Tonkotsu, Shoyu, Shio, Miso, Kimchi, Cha Shu, Wantan, Tan Tan, Yasai, Gomoku, Stamina, Sea Food, Spicy Shrimp Garlic Sauce)
+- Appetizers: $3.99-$6.99 (grilled dumplings, dumpling soup, tako yaki, spicy wanton shrimp, turkey bacon roll)
+- Noodle salads including Hiyashi Chuka (cold noodles): $12.99-$13.99
+- Yaki soba, fried rice (cha han), plates (mabo tofu, kung pao chicken, shoga yaki) and rice dishes (curry rice, stamina don): $7.99-$11.99
+- Full menu: https://grace-noodle.netlify.app/menu.html
+
+## FAQ
+- Online pickup? Yes: choose dishes and a pickup time online; the restaurant calls to confirm; pay at pickup.
+- Spicy dishes? Marked with a chili on the menu. Tan Tan Ramen is the hottest.
+- Vegetarian? Yasai Ramen, Yasai Cha Han, and a vegan Turkey Bacon Roll.
+- Open Sunday? No, closed Sundays.

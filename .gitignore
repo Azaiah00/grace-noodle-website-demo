@@ -1,0 +1,6 @@
+_source-photos/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.netlify/
